@@ -1,0 +1,1 @@
+Dead simple PHP + Composer + NodeJS for pipelines (CI/CD).
